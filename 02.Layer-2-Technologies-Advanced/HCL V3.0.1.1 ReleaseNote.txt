@@ -1,0 +1,35 @@
+V3.0.1.1 version
+=========================================
+New features in this version:
+----------------------
+[New product features]
+Router: DHCPv6, AFT, EVPN, VXLAN, BRAS (VSR-88)
+Switch: Drni, evpn, vxlan
+Security: RBM features, WAF protection , Web
+
+----------------------
+[Analog product]
+1. Solve the following problems of safety products:
+dis version shows incorrect product name
+The management domain is unavailable by default, and detailed policies need to be configured
+
+----------------------
+[Client UI function]
+1. Add Vsr-88 virtual routing device in the router column (there is no device picture in the configuration interface)
+2. Modify the initial memory of security, routing, and switching products to 384M.
+3. Add new switch device S6850 and new security device F1090.
+4. In each product configuration interface, the official website link address is changed, and the product description is changed.
+5. Optimize the compatibility of win7, 10 operating system, unified with 6.0.14vbox (the version comes with vb installation package)
+6. Fix the problem of users unable to register and log in in 2.1.2.
+7. Update the overseas version registration process to support registration via email activation code.
+8. The province and industry options are removed from the overseas registration page and changed to country options.
+9. The overseas version removes the WeChat QR code button on the main interface.
+10. Updated the user manual
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+For any problem, please contact following interface.
+
+Pub HCL <pub.HCL@h3c.com>
+wang.zhexing@h3c.com
+liu.hongfa@h3c.com
