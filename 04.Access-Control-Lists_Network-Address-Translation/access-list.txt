@@ -1,0 +1,11 @@
+    10 permit udp host 10.1.1.100 host 192.168.1.100 eq domain
+    20 permit udp host 10.1.1.200 host 192.168.1.100 eq domain
+    30 deny icmp host 10.1.1.100 host 192.168.1.100 echo
+    40 deny icmp host 10.1.1.200 host 192.168.1.100 echo
+    50 permit tcp host 10.1.1.200 host 192.168.1.100 eq www
+    60 permit udp any any eq bootps
+
+permit udp host 10.1.1.100 host 192.168.1.100 eq domain
+permit udp host 10.1.1.200 host 192.168.1.100 eq domain
+permit tcp host 10.1.1.200 host 192.168.1.100 eq www
+permit udp any any eq bootps
