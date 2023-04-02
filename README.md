@@ -1,2 +1,2 @@
-# 19.Computer-Networking-Advanced
+# 19.Softuni-Computer-Networking-Advanced
 Advanced course computer networking.
